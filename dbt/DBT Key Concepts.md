@@ -53,4 +53,5 @@ dbt works seamlessly with modern data warehouses like **BigQuery**, **Snowflake*
 
 ## 🚀 10. Analytics Engineering Mindset  
 dbt encourages a shift toward **analytics engineering** bringing software engineering best practices like testing, modularity, and documentation into the data analytics world.  
+
 ---
